@@ -1,5 +1,6 @@
 {
   "name": "rn-currency-pad-input",
+  "Private": false,
   "version": "0.0.1",
   "description": "A customizable, performant, and accessible currency input component with a built-in number pad — designed specifically for React Native. Perfect for finance, payment, and e-commerce apps that require a smooth and intuitive currency input experience.",
   "main": "./lib/module/index.js",
